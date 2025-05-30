@@ -20,7 +20,7 @@
 ### 3. onfore
 >- 개발기간: 2024.10-2025.05
 >- 프로젝트 소개: 탄소중립 통계 페이지 프론트엔드 개발
->- 사용 스킬: React, typescript, Emotion, And design, Google Map
+>- 사용 스킬: React, typescript, Emotion, And design, Google Map, rechart, Zustand
 
 <br>
 
