@@ -53,11 +53,6 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 
-    
-
-## 🏅 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinbobae&show_icons=true&count_private=true&include_all_commits=true&hide=stars,contribs)
-    
 
 
 
