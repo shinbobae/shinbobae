@@ -38,7 +38,7 @@
 
 <br>
 
-### 6. 위존 MOXA
+### 6. [위존 MOXA](https://github.com/shinbobae/2025_moxa)
 >- 개발기간: 2025.02-2025.05
 >- 프로젝트 소개: 위존의 MOXA 제품 소개 페이지 및 CMS 프론트엔드 개발
 >- 사용 스킬: React, typescript, Emotion, Zustand, And design
