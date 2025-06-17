@@ -10,7 +10,7 @@
 
 <br>
 
-### 2. EM Core
+### 2. [EM Core](https://github.com/shinbobae/2024_em_core)
 >- 개발기간: 2024.07-2025.05
 >- 프로젝트 소개: 자사 UI 라이브러리 개발
 >- 사용 스킬: React, typescript, Emotion, storybook
