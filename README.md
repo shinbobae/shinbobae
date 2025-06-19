@@ -6,8 +6,8 @@
 ### 1. myThings IoT
 >- 개발기간: 2021.05-2025.05
 >- 참여율: 50%
->- 프로젝트 소개: React를 사용한 자사  IoT 관리 웹 플랫폼 및 사용자 화면 개발 및 유지보수<br>
->- 사용 스킬: React
+>- 프로젝트 소개: React를 사용한 자사 IoT 대시보드 및 관리 웹 플랫폼 및 일반 사용자 화면 개발 및 유지보수<br>
+>- 사용 스킬: React, javascript
 
 <br>
 
@@ -67,7 +67,15 @@
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 
 
+## Study Project
 
+### 1. [Compound Component Pattern](https://github.com/shinbobae/compound_component)
+>- Compound Component Pattern 은 여러 컴포넌트가 하나의 동작에 관여하는 경우 각 컴포넌트를 분리해 확장 및 재사용에 유연한 컴포넌트를 만드는 디자인 패턴
+>- Context API를 사용해 구현
+
+### 2. [micro frontend](https://github.com/shinbobae/micro_frontend)
+>- 전체 App을 작동할 수 있는 단위로 나누어 개발한 후 서로 조립하는 방식
+>- vite-plugin-federation 사용
 
 <!--
 **shinbobae/shinbobae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
