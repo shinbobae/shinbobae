@@ -52,6 +52,18 @@
 <br>
 
 
+## 🛒 Study Project
+
+### 1. [Compound Component Pattern](https://github.com/shinbobae/compound_component)
+>- Compound Component Pattern 은 여러 컴포넌트가 하나의 동작에 관여하는 경우 각 컴포넌트를 분리해 확장 및 재사용에 유연한 컴포넌트를 만드는 디자인 패턴
+>- Context API를 사용해 구현
+
+### 2. [micro frontend](https://github.com/shinbobae/micro_frontend)
+>- 전체 App을 작동할 수 있는 단위로 나누어 개발한 후 서로 조립하는 방식
+>- vite-plugin-federation 사용
+
+<br>
+
 ## 🛠️ Tech Stacks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -66,16 +78,6 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 
-
-## Study Project
-
-### 1. [Compound Component Pattern](https://github.com/shinbobae/compound_component)
->- Compound Component Pattern 은 여러 컴포넌트가 하나의 동작에 관여하는 경우 각 컴포넌트를 분리해 확장 및 재사용에 유연한 컴포넌트를 만드는 디자인 패턴
->- Context API를 사용해 구현
-
-### 2. [micro frontend](https://github.com/shinbobae/micro_frontend)
->- 전체 App을 작동할 수 있는 단위로 나누어 개발한 후 서로 조립하는 방식
->- vite-plugin-federation 사용
 
 <!--
 **shinbobae/shinbobae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
