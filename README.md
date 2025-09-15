@@ -40,7 +40,7 @@
 >- 개발기간: 2022.04-2022.09
 >- 참여율: 프론트엔드 60%
 >- 프로젝트 소개: 아이돌라이브 CMS의 UI 및 프론트엔드 개발
->- 사용 스킬: Vue, typescript
+>- 사용 스킬: Vue, typescript, Pinia
 
 <br>
 
@@ -50,6 +50,15 @@
 >- 프로젝트 소개: 위존의 MOXA 제품 소개 페이지의 전체 반응형 UI 제작 및 CMS 프론트엔드 개발
 >- 사용 스킬: React, typescript, Emotion, Zustand, And design
 >- [홈페이지 바로가기](https://moxa.wezon.com)
+
+<br>
+
+### 7. [K star](http://www.kstar-tv.com)
+>- 개발기간: 2022.03-2022.04
+>- 참여율: 퍼블리싱 100%
+>- 프로젝트 소개: 하이킥! 시리즈 제작사로 유명한 초록뱀미디어 계열의 연예/오락 및 버라이어티 전문 채널 홈페이지 및 컨텐츠 관리 페이지 제작
+>- 사용 스킬: HTML, CSS, javascript (php 그누보드 기반)
+>- [홈페이지 바로가기](http://www.kstar-tv.com)
 
 <br>
 
