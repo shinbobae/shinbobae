@@ -24,7 +24,7 @@
 >- 개발기간: 2024.10-2025.05
 >- 참여율: 프론트엔드 100%
 >- 프로젝트 소개: 탄소중립 통계 페이지 프론트엔드 개발
->- 사용 스킬: React, typescript, Emotion, And design, Google Map, rechart, Zustand
+>- 사용 스킬: React, typescript, Emotion, Ant design, Google Map, rechart, Zustand
 
 <br>
 
@@ -66,10 +66,12 @@
 ## 🛒 Study Project
 
 ### 1. [Compound Component Pattern](https://github.com/shinbobae/compound_component)
+>- React
 >- Compound Component Pattern 은 여러 컴포넌트가 하나의 동작에 관여하는 경우 각 컴포넌트를 분리해 확장 및 재사용에 유연한 컴포넌트를 만드는 디자인 패턴
 >- Context API를 사용해 구현
 
 ### 2. [micro frontend](https://github.com/shinbobae/micro_frontend)
+>- React
 >- 전체 App을 작동할 수 있는 단위로 나누어 개발한 후 서로 조립하는 방식
 >- vite-plugin-federation 사용
 
