@@ -75,6 +75,11 @@
 >- 전체 App을 작동할 수 있는 단위로 나누어 개발한 후 서로 조립하는 방식
 >- vite-plugin-federation 사용
 
+### 3. [Modal with createPortal](https://github.com/shinbobae/modal)
+>- React, Zustand, typescript
+>- 같은 모달 컴포넌트를 UI에서도, 순수 로직에서도 사용할 수는 없을까? api 응답에 쓰이는 모달(확인창, 알림창) 등을 고민하며 만든 로직
+>- React createPortal와 Zustand의 store를 만들어 구현
+>- 
 <br>
 
 ## 🛠️ Tech Stacks
