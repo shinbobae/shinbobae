@@ -5,41 +5,41 @@
 ## 📝 Work Experience
 
 ### 1. myThings IoT
->- 서비스 소개: 자사 IoT 대시보드 및 관리 웹 플랫폼 및 일반 사용자 화면
+>- 자사 IoT 대시보드 및 관리 웹 플랫폼 및 일반 사용자 화면
 >- React, javascript, i18n, AWS
 
 <br>
 
 ### 2. [EM Core](https://github.com/shinbobae/2024_em_core)
->- 서비스 소개: 자사 UI 라이브러리
+>- 자사 UI 라이브러리
 >- React, typescript, Emotion, storybook
 
 <br>
 
 ### 3. [onfore](https://github.com/shinbobae/2024_onfore)
 
->- 서비스 소개: 탄소중립 통계 페이지
+>- 탄소중립 통계 페이지
 >- React, typescript, Emotion, Ant design, Google Map, rechart, Zustand, AWS
 
 <br>
 
 ### 4. [현지투어](https://github.com/shinbobae/2022_hyunji_tour)
 
->- 서비스 소개: 동남아 투어 상품 소개 및 무료 셔틀버스 탑승 및 위치 제공 서비스
+>- 동남아 투어 상품 소개 및 무료 셔틀버스 탑승 및 위치 제공 서비스
 >- 사용 스킬: React, typescript, Emotion, Ant design, redux, Mapbox, AWS
 
 <br>
 
 ### 5. LG U+ 아이돌라이브 
 
->- 프로젝트 소개: 아이돌라이브 백오피스
+>- 아이돌라이브 백오피스
 >- 사용 스킬: Vue, typescript, Pinia
 
 <br>
 
 ### 6. [위존 MOXA](https://github.com/shinbobae/2025_moxa)
 
->- 프로젝트 소개: 위존의 MOXA 반응형 제품 소개 페이지
+>- 위존의 MOXA 반응형 제품 소개 페이지
 >- 사용 스킬: React, typescript, Emotion, Zustand, And design
 >- [홈페이지 바로가기](https://moxa.wezon.com)
 
@@ -47,7 +47,7 @@
 
 ### 7. [K star](http://www.kstar-tv.com)
 
->- 프로젝트 소개: 하이킥! 시리즈 제작사로 유명한 초록뱀미디어 계열의 연예/오락 및 버라이어티 전문 채널 홈페이지 및 컨텐츠 관리 페이지
+>- 하이킥! 시리즈 제작사로 유명한 초록뱀미디어 계열의 연예/오락 및 버라이어티 전문 채널 홈페이지 및 컨텐츠 관리 페이지
 >- 사용 스킬: HTML, CSS, javascript (php 그누보드 기반)
 >- [홈페이지 바로가기](http://www.kstar-tv.com)
 
