@@ -4,40 +4,40 @@
 
 ## 📝 Work Experience
 
-### 1. myThings IoT
+### myThings IoT
 >- 자사 IoT 대시보드 및 관리 웹 플랫폼 및 일반 사용자 화면
 >- React, javascript, i18n, AWS
 
 <br>
 
-### 2. [EM Core](https://github.com/shinbobae/2024_em_core)
+### [EM Core](https://github.com/shinbobae/2024_em_core)
 >- 자사 UI 라이브러리
 >- React, typescript, Emotion, storybook
 
 <br>
 
-### 3. [onfore](https://github.com/shinbobae/2024_onfore)
+<!-- ### [onfore](https://github.com/shinbobae/2024_onfore) -->
 
 >- 탄소중립 통계 페이지
 >- React, typescript, Emotion, Ant design, Google Map, rechart, Zustand, AWS
 
 <br>
 
-### 4. [현지투어](https://github.com/shinbobae/2022_hyunji_tour)
+### [현지투어](https://github.com/shinbobae/2022_hyunji_tour)
 
 >- 동남아 투어 상품 소개 및 무료 셔틀버스 탑승 및 위치 제공 서비스
 >- 사용 스킬: React, typescript, Emotion, Ant design, redux, Mapbox, AWS
 
 <br>
 
-### 5. LG U+ 아이돌라이브 
+### LG U+ 아이돌라이브 
 
 >- 아이돌라이브 백오피스
 >- 사용 스킬: Vue, typescript, Pinia
 
 <br>
 
-### 6. [위존 MOXA](https://github.com/shinbobae/2025_moxa)
+### [위존 MOXA](https://github.com/shinbobae/2025_moxa)
 
 >- 위존의 MOXA 반응형 제품 소개 페이지
 >- 사용 스킬: React, typescript, Emotion, Zustand, And design
@@ -45,7 +45,7 @@
 
 <br>
 
-### 7. [K star](http://www.kstar-tv.com)
+### [K star](http://www.kstar-tv.com)
 
 >- 하이킥! 시리즈 제작사로 유명한 초록뱀미디어 계열의 연예/오락 및 버라이어티 전문 채널 홈페이지 및 컨텐츠 관리 페이지
 >- 사용 스킬: HTML, CSS, javascript (php 그누보드 기반)
@@ -56,17 +56,17 @@
 
 ## 🛒 Study Project
 
-### 1. [Compound Component Pattern](https://github.com/shinbobae/compound_component)
+### [Compound Component Pattern](https://github.com/shinbobae/compound_component)
 >- React
 >- Compound Component Pattern 은 여러 컴포넌트가 하나의 동작에 관여하는 경우 각 컴포넌트를 분리해 확장 및 재사용에 유연한 컴포넌트를 만드는 디자인 패턴
 >- Context API를 사용해 구현
 
-### 2. [micro frontend](https://github.com/shinbobae/micro_frontend)
+### [micro frontend](https://github.com/shinbobae/micro_frontend)
 >- React
 >- 전체 App을 작동할 수 있는 단위로 나누어 개발한 후 서로 조립하는 방식
 >- vite-plugin-federation 사용
 
-### 3. [Modal with createPortal](https://github.com/shinbobae/modal)
+### [Modal with createPortal](https://github.com/shinbobae/modal)
 >- React, Zustand, typescript
 >- 같은 모달 컴포넌트를 UI에서도, 순수 로직에서도 사용할 수는 없을까? api 응답에 쓰이는 모달(확인창, 알림창) 등을 고민하며 만든 로직
 >- React createPortal와 Zustand의 store를 만들어 구현
