@@ -18,7 +18,7 @@
 
 ### [onfore](https://github.com/shinbobae/2024_onfore)
 
->- 탄소중립 통계 페이지
+>- 자사 탄소중립 통계 테스트 서비스
 >- React, typescript, Emotion, Ant design, Google Map, rechart, Zustand, AWS
 
 <br>
