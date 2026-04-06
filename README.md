@@ -16,40 +16,40 @@
 
 <br>
 
-<!-- ### [onfore](https://github.com/shinbobae/2024_onfore) -->
+### [onfore](https://github.com/shinbobae/2024_onfore)
 
 >- 탄소중립 통계 페이지
 >- React, typescript, Emotion, Ant design, Google Map, rechart, Zustand, AWS
 
 <br>
 
-### [현지투어](https://github.com/shinbobae/2022_hyunji_tour)
+<!-- ### [현지투어](https://github.com/shinbobae/2022_hyunji_tour) -->
 
->- 동남아 투어 상품 소개 및 무료 셔틀버스 탑승 및 위치 제공 서비스
->- 사용 스킬: React, typescript, Emotion, Ant design, redux, Mapbox, AWS
+<!-- >- 동남아 투어 상품 소개 및 무료 셔틀버스 탑승 및 위치 제공 서비스 -->
+<!-- >- 사용 스킬: React, typescript, Emotion, Ant design, redux, Mapbox, AWS -->
 
-<br>
+<!-- <br> -->
 
-### LG U+ 아이돌라이브 
+<!-- ### LG U+ 아이돌라이브  -->
 
->- 아이돌라이브 백오피스
->- 사용 스킬: Vue, typescript, Pinia
+<!-- >- 아이돌라이브 백오피스 -->
+<!-- >- 사용 스킬: Vue, typescript, Pinia -->
 
-<br>
+<!-- <br> -->
 
-### [위존 MOXA](https://github.com/shinbobae/2025_moxa)
+<!-- ### [위존 MOXA](https://github.com/shinbobae/2025_moxa) -->
 
->- 위존의 MOXA 반응형 제품 소개 페이지
->- 사용 스킬: React, typescript, Emotion, Zustand, And design
->- [홈페이지 바로가기](https://moxa.wezon.com)
+<!-- >- 위존의 MOXA 반응형 제품 소개 페이지 -->
+<!-- >- 사용 스킬: React, typescript, Emotion, Zustand, And design -->
+<!-- >- [홈페이지 바로가기](https://moxa.wezon.com) -->
 
-<br>
+<!-- <br> -->
 
-### [K star](http://www.kstar-tv.com)
+<!-- ### [K star](http://www.kstar-tv.com) -->
 
->- 하이킥! 시리즈 제작사로 유명한 초록뱀미디어 계열의 연예/오락 및 버라이어티 전문 채널 홈페이지 및 컨텐츠 관리 페이지
->- 사용 스킬: HTML, CSS, javascript (php 그누보드 기반)
->- [홈페이지 바로가기](http://www.kstar-tv.com)
+<!-- >- 하이킥! 시리즈 제작사로 유명한 초록뱀미디어 계열의 연예/오락 및 버라이어티 전문 채널 홈페이지 및 컨텐츠 관리 페이지 -->
+<!-- >- 사용 스킬: HTML, CSS, javascript (php 그누보드 기반) -->
+<!-- >- [홈페이지 바로가기](http://www.kstar-tv.com) -->
 
 <br>
 
