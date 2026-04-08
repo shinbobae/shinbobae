@@ -6,20 +6,20 @@
 
 ### myThings IoT
 >- 자사 IoT 대시보드 및 관리 웹 플랫폼 및 일반 사용자 화면
->- React, javascript, i18n, AWS
+>- React, javascript, i18n, AWS, nginx
 
 <br>
 
 ### [EM Core](https://github.com/shinbobae/2024_em_core)
 >- 자사 UI 라이브러리
->- React, typescript, Emotion, storybook
+>- React, typescript, Emotion, storybook, AWS
 
 <br>
 
 ### [onfore](https://github.com/shinbobae/2024_onfore)
 
 >- 자사 탄소중립 통계 테스트 서비스
->- React, typescript, Emotion, Ant design, Google Map, rechart, Zustand, AWS
+>- React, typescript, Emotion, Ant design, Google Map, rechart, Zustand, AWS, nginx
 
 <br>
 
