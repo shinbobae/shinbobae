@@ -53,15 +53,6 @@ Compound Component Pattern 은 여러 컴포넌트가 하나의 동작에 관여
 같은 모달 컴포넌트를 UI에서도, 순수 로직에서도 사용할 수는 없을까? api 응답에 쓰이는 모달(확인창, 알림창) 등을 고민하며 만든 로직
 
 
-<br><br>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
 
 <!--
 **shinbobae/shinbobae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
