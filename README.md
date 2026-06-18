@@ -43,6 +43,9 @@
 
 #### 🛒 Study
 
+###### [UI kit](https://github.com/shinbobae/bb_ui_kit)
+React, Next의 환경에서 사용 가능한 UI 라이브러리 만들기
+
 ###### [Compound Component Pattern](https://github.com/shinbobae/compound_component)
 Compound Component Pattern 은 여러 컴포넌트가 하나의 동작에 관여하는 경우 각 컴포넌트를 분리해 확장 및 재사용에 유연한 컴포넌트를 만드는 디자인 패턴
 
