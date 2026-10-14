@@ -1,3 +1,4 @@
+<!--
 #### 📝 Work Experience
 
 ##### myThings IoT
@@ -57,7 +58,7 @@ Compound Component Pattern 은 여러 컴포넌트가 하나의 동작에 관여
 
 
 
-<!--
+
 **shinbobae/shinbobae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
