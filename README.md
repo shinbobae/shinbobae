@@ -1,4 +1,4 @@
-
+<!--
 #### 📝 Work Experience
 
 ##### myThings IoT
@@ -18,13 +18,11 @@
 <!-- >- 동남아 투어 상품 소개 및 무료 셔틀버스 탑승 및 위치 제공 서비스 -->
 <!-- >- 사용 스킬: React, typescript, Emotion, Ant design, redux, Mapbox, AWS -->
 
-<!-- <br> -->
-
+<!--
 ###### LG U+ 아이돌라이브
 - 아이돌라이브 백오피스
 - Vue, typescript, Pinia
-
-<!-- <br> -->
+ -->
 
 <!-- ### [위존 MOXA](https://github.com/shinbobae/2025_moxa) -->
 
